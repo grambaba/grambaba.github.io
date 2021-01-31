@@ -1,0 +1,25 @@
+{
+    "image": "render_1-3.10",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Paint Matte Red #6",
+            "sub_material": "Paint Matte Red #6"
+        },
+        {
+            "base_material": "Paint Textured Grey #1",
+            "sub_material": "Paint Matte Black"
+        },
+        {
+            "base_material": "Paint Matte Black #2",
+            "sub_material": "Paint Gloss Black"
+        },
+        {
+            "base_material": "Paint Matte Green",
+            "sub_material": "Paint Matte Green"
+        }
+    ],
+    "studio": "View 2"
+}
