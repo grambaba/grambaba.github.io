@@ -271,7 +271,7 @@ a:hover {
 }
 
 .text-light {
-	color: #494949 !important;
+	color: #222222 !important;
 }
 
 .mb-10 {
@@ -472,7 +472,7 @@ textarea.form-control {
 .hero-area h1 {
   position: relative;
   z-index: 2;
-  color: white;
+  color: white
 }
 
 .layer {
